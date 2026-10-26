@@ -1,0 +1,31 @@
+transcript_id,customer_id,category,transcript_text,retrieval_approved
+T00001,C00054,Billing Issue,I have a question about my recent charge.,False
+T00002,C00070,Billing Issue,I have a question about my recent charge.,False
+T00003,C00026,Billing Issue,I have a question about my recent charge.,False
+T00004,C00065,Cancellation Request,I would like to cancel my subscription.,False
+T00005,C00045,Delivery Delay,My supplement order has not arrived yet.,False
+T00006,C00095,Product Question,Can you explain the difference between the plans?,False
+T00007,C00016,Delivery Delay,My supplement order has not arrived yet.,False
+T00008,C00015,Billing Issue,I have a question about my recent charge.,False
+T00009,C00047,Delivery Delay,My supplement order has not arrived yet.,False
+T00010,C00051,Billing Issue,I have a question about my recent charge.,False
+T00011,C00070,Cancellation Request,I would like to cancel my subscription.,False
+T00012,C00041,Billing Issue,I have a question about my recent charge.,False
+T00013,C00092,Delivery Delay,My supplement order has not arrived yet.,False
+T00014,C00048,Cancellation Request,I would like to cancel my subscription.,False
+T00015,C00013,Product Question,Can you explain the difference between the plans?,False
+T00016,C00012,Delivery Delay,My supplement order has not arrived yet.,False
+T00017,C00098,Product Question,Can you explain the difference between the plans?,False
+T00018,C00014,Cancellation Request,I would like to cancel my subscription.,False
+T00019,C00095,Delivery Delay,My supplement order has not arrived yet.,False
+T00020,C00028,Product Question,Can you explain the difference between the plans?,False
+T00021,C00010,Cancellation Request,I would like to cancel my subscription.,False
+T00022,C00031,Product Question,Can you explain the difference between the plans?,False
+T00023,C00062,Delivery Delay,My supplement order has not arrived yet.,False
+T00024,C00043,Billing Issue,I have a question about my recent charge.,False
+T00025,C00079,Billing Issue,I have a question about my recent charge.,False
+T00026,C00062,Cancellation Request,I would like to cancel my subscription.,False
+T00027,C00041,Product Question,Can you explain the difference between the plans?,False
+T00028,C00064,Delivery Delay,My supplement order has not arrived yet.,False
+T00029,C00098,Delivery Delay,My supplement order has not arrived yet.,False
+T00030,C00042,Product Question,Can you explain the difference between the plans?,False
